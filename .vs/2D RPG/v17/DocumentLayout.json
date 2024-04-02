@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\assets\\images\\scripts\\movingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|solutionrelative:assets\\images\\scripts\\movingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|d:\\\uD504\uB85C\uC81D\uD2B8\\2d rpg\\assets\\scripts\\movingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|d:\\\uD504\uB85C\uC81D\uD2B8\\2d rpg\\assets\\\uD544\uB3C5\u2605.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Images\\Scripts\\MovingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Images\\Scripts\\MovingObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\assets\\\uD544\uB3C5\u2605.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{575CFB57-3C26-B9A1-7D51-61557CF69D6D}|Assembly-CSharp.csproj|solutionrelative:assets\\\uD544\uB3C5\u2605.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,18 +28,29 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MovingObject.cs",
-              "DocumentMoniker": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Images\\Scripts\\MovingObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Images\\Scripts\\MovingObject.cs",
-              "ToolTip": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Images\\Scripts\\MovingObject.cs",
-              "RelativeToolTip": "Assets\\Images\\Scripts\\MovingObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "DocumentMoniker": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Scripts\\MovingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingObject.cs",
+              "ToolTip": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Scripts\\MovingObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingObject.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T10:35:26.01Z",
+              "WhenOpened": "2024-03-31T14:42:47.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MovingObject.cs",
+              "DocumentMoniker": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Images\\Scripts\\MovingObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Images\\Scripts\\MovingObject.cs",
+              "ToolTip": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\Images\\Scripts\\MovingObject.cs",
+              "RelativeToolTip": "Assets\\Images\\Scripts\\MovingObject.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:35:26.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "\uD544\uB3C5\u2605.txt",
               "DocumentMoniker": "D:\\\uD504\uB85C\uC81D\uD2B8\\2D RPG\\Assets\\\uD544\uB3C5\u2605.txt",
               "RelativeDocumentMoniker": "Assets\\\uD544\uB3C5\u2605.txt",
@@ -43,8 +58,7 @@
               "RelativeToolTip": "Assets\\\uD544\uB3C5\u2605.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-31T10:29:59.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T10:29:59.122Z"
             }
           ]
         }
